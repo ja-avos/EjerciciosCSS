@@ -1,0 +1,22 @@
+.txt-rojo {
+    color: red;
+}
+
+.subtitulo {
+    font-size: x-large;
+    font-weight: 1000;
+}
+
+form {
+    font-size: larger;
+}
+
+div {
+    margin-top: 15px;
+}
+
+input[type="text"] {
+    border-color: whitesmoke;
+    background-color: greenyellow;
+    margin-top: 10px;
+}
