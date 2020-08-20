@@ -1,10 +1,7 @@
-.txt-orange {
-    color: orangered;
-}
-
-.subtitulo {
+label[for="visitante"] {
     font-size: large;
     font-weight: bolder;
+    color: orangered;
 }
 
 input[type="text"] {
